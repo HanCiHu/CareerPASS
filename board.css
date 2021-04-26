@@ -1,0 +1,89 @@
+#title
+{
+	font-size: 50px;
+	position: relative;
+	color: black;
+
+}
+
+a:link
+{
+	text-decoration: none;
+}
+
+.row
+{
+	padding : 10px;
+}
+
+#sign-btn, #id-span
+{
+	float: right;
+}
+#id-span
+{
+	font-size: 20px;
+}
+
+#menu, h3
+{
+	text-align: center;
+}
+
+#post-content
+{
+	height: 100px;
+	width: 300px;
+}
+
+fieldset
+{
+	border: 5px solid black;
+	width: 400px;
+}
+
+fieldset legend
+{
+	text-align: center;
+}
+
+#back, #make-post
+{
+	float: right;
+	margin: 3px;
+}
+
+#hide-user
+{
+	float: left;
+	zoom: 1.5;
+	margin: 2px;
+}
+
+.pagination
+{
+	position: absolute;
+	left: 250px;
+}
+
+#postInfo
+{
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+#postContent
+{
+	border: 1px solid black;
+	height: 200px;
+	margin-bottom: 10px;
+}
+
+#postInfo #postUser
+{
+	float: left;
+}
+#postInfo #postDate
+{
+	float: right;
+}

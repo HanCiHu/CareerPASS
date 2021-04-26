@@ -1,0 +1,20 @@
+#idDiv
+{
+	font-size: 30px;
+	text-align: center;
+}
+
+#editInfo
+{
+	text-align: center;
+}
+
+#scroll
+{
+	overflow: auto;
+	height: 500px;
+}
+button
+{
+	padding : 3px;
+}

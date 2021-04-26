@@ -1,0 +1,18 @@
+.header
+{
+	font-size: 50px;
+	text-decoration: none;
+	color: black;
+}
+
+fieldset
+{
+	border: 5px solid red;
+	width: 400px;
+	margin-left: 30%;
+}
+
+body
+{
+	text-align: center;
+}
