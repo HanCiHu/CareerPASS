@@ -29,4 +29,4 @@
 - 글쓰기 페이지
 ![image](https://user-images.githubusercontent.com/51700274/124383297-b881f900-dd06-11eb-9997-e07880caf914.png)  
 - 마이페이지
-![image](https://user-images.githubusercontent.com/51700274/124383306-c5065180-dd06-11eb-8dea-5da6042d0c51.png)
+![image](https://user-images.githubusercontent.com/51700274/124383306-c5065180-dd06-11eb-8dea-5da6042d0c51.png)  
